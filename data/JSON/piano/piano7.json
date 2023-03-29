@@ -1,0 +1,11 @@
+{
+    "part": "piano",
+    "absoluteNumber": 7,
+    "relativeNumber": 7,
+    "soundEvents": [
+      {
+          "start": 0,
+          "id": "01"
+      }
+    ]
+}
